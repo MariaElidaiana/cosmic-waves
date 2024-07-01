@@ -4,26 +4,17 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+Meet a special gravitational wave (G-wave). Born from the collision of two neutron stars over a billion years ago, it traveled across the Universe to finally reach Earth. This G-wave's birth came with a burst of light, making it a "bright siren" and is helping scientists to uncover the universe's secrets.
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
 
-## Features
+## References
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
-
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+- [LIGO documentary](https://www.ligo.caltech.edu/video/ligo-documentary)
+- [LIGO detector](https://www.ligo.caltech.edu/page/what-is-ligo)
+- [Virgo detector](https://www.virgo-gw.eu/science/detector/)
+- [2017 Nobel Prize annoucement](https://www.nobelprize.org/prizes/physics/2017/press-release/)
+- About GW170817:
+    - [Factsheet](https://www.ligo.org/detections/GW170817/images-GW170817/GW170817_Factsheet.pdf)
+    - [Infographic with the timeline of the event in hours/days](https://www.ligo.org/detections/GW170817/images-GW170817/infographic_GW170817.pdf)
+- [Blanco/DECam paper detection](https://arxiv.org/pdf/1710.05459)
+- Swope detection paper
