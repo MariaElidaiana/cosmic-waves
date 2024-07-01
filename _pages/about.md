@@ -6,7 +6,7 @@ permalink: /about/
 
 Meet a special gravitational wave (G-wave). Born from the collision of two neutron stars over a billion years ago, it traveled across the Universe to finally reach Earth. This G-wave's birth came with a burst of light, making it a "bright siren" and is helping scientists to uncover the Universe's secrets.
 
-## Acknowledge 
+## Acknowledgements  
 We would like to thank everyone who have contributed with the zine, by reviewing or giving suggestions. In particular, we thank: Jasmin, Felix, Camila's friends name, Maria friend's name, Hamburg observatory people names.      
 
 This project was sponsored by the Claussen Simon Stiftung with support of the Hamburg University and the Hamburg Research Academy.
