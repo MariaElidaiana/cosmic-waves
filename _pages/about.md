@@ -34,5 +34,5 @@ This project was sponsored by the Claussen Simon Stiftung with support of the Ha
 - [2017 Nobel Prize annoucement](https://www.nobelprize.org/prizes/physics/2017/press-release/)
 - [Kilonova](https://www.space.com/what-are-kilonovas)
 - [Hubble constant](https://news.uchicago.edu/explainer/hubble-constant-explained)
-- [Auhtor's outreach article on using bright & dark sirens to study the expansion of the Universe](https://science-chatter.blogs.uni-hamburg.de/?p=1013)
+- [Author's outreach article on using bright & dark sirens to study the expansion of the Universe](https://science-chatter.blogs.uni-hamburg.de/?p=1013)
   
