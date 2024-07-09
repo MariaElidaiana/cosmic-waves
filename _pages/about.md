@@ -7,7 +7,9 @@ permalink: /about/
 Meet a special gravitational wave. Born from the collision of two neutron stars over a billion years ago, it traveled across the Universe to finally reach Earth. The birth of this gravitational wave came with a burst of light, an event known as a bright siren, and helped scientists to uncover the Universe's secrets.
 
 # Authors
+
 [Maria E. S. Pereira](https://mariaelidaiana.github.io/) (maria.sp@mail.com)
+
 [Camila Machado](https://www.camilamachado.com/) (hi.camilamachado@gmail.com) 
 
 # Acknowledgements  
