@@ -22,7 +22,7 @@ This project was sponsored by the Claussen Simon Stiftung with support of the Ha
 - About GW170817:
     - [Factsheet](https://www.ligo.org/detections/GW170817/images-GW170817/GW170817_Factsheet.pdf)
     - [Infographic with the timeline of the event in hours/days](https://www.ligo.org/detections/GW170817/images-GW170817/infographic_GW170817.pdf)
-    - Papers on the detection of GW170817:
+- Papers on the detection of GW170817:
     - [Swope Telescope](https://www.science.org/doi/10.1126/science.aap9811)
     - [Blanco/DECam](https://iopscience.iop.org/article/10.3847/2041-8213/aa9059)
 - [Kilonova](https://www.space.com/what-are-kilonovas)
