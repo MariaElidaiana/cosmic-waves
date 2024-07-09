@@ -6,14 +6,12 @@ permalink: /about/
 
 Meet a special gravitational wave. Born from the collision of two neutron stars over a billion years ago, it traveled across the Universe to finally reach Earth. The birth of this gravitational wave came with a burst of light, an event known as a bright siren, and helped scientists to uncover the Universe's secrets.
 
-**Contact:** Maria E. S. Pereira (maria.sp@mail.com)
-
-### Acknowledgements  
+# Acknowledgements  
 We would like to thank everyone who have contributed with the zine, by reviewing or giving suggestions at the various stages of the project. In particular, we thank: J. Neumann, F. Kling, Zach, D. T. Martins, S. Acharya, B. Biswas, S. Casura, P. Jakobus, J. Knoche, T. Kupfer, R. A. Miret, W. Schmidt, W. Shaqil.      
 
 This project was sponsored by the Claussen Simon Stiftung with support of the Hamburg University and the Hamburg Research Academy.
 
-### References
+# References
 
 - [LIGO documentary on the gravitational wave's discovery](https://www.ligo.caltech.edu/video/ligo-documentary)
 - About the gravitational wave detectors:
@@ -31,3 +29,6 @@ This project was sponsored by the Claussen Simon Stiftung with support of the Ha
 - [Kilonova](https://www.space.com/what-are-kilonovas)
 - [Hubble constant](https://news.uchicago.edu/explainer/hubble-constant-explained)
 - [Auhtor's outreach article on using bright & dark sirens to study the expansion of the Universe](https://science-chatter.blogs.uni-hamburg.de/?p=1013)
+
+**Contact:** Maria E. S. Pereira (maria.sp@mail.com)
+  
