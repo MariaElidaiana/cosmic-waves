@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zine's pre-release at Sternstunden Festival.
+title: Zine's release at Sternstunden Festival.
 categories: News
 excerpt: The zine "Cosmic Waves" will be released at the Hamburg Observatory during the outreach activities of the Sternstunden Festival 2024.
 ---
