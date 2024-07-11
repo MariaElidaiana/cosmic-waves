@@ -11,7 +11,7 @@ Meet a special gravitational wave. Born from the collision of two neutron stars 
 - Editing (English version): Stephanie Fernandes
 - Translation (German version): Jasmin Neumann
 
---
+---
 
 # Acknowledgements  
 We would like to thank everyone who have contributed with the zine, by reviewing or giving suggestions at the various stages of the project. In particular, we thank: J. Neumann, F. Kling, Z. Savitsky, D. T. Martins, S. Acharya, B. Biswas, S. Casura, P. Jakobus, J. Knoche, T. Kupfer, R. A. Miret, W. Schmidt, W. Shaqil.      
