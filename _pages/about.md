@@ -8,7 +8,7 @@ Meet a special gravitational wave. Born from the collision of two neutron stars 
 
 <div align="center">
   <br>
-  <img src="images/zine-instagram-feed_1.jpg" alt="Cover page of Cosmic Waves zine" width="200"/>
+  <img src="https://github.com/MariaElidaiana/cosmicwaves/blob/master/images/zine-instagram-feed_1.jpg" alt="Cover page of Cosmic Waves zine" width="200"/>
   <br>  
   <p align="center">
     <i>Cosmic Waves zine</i>
