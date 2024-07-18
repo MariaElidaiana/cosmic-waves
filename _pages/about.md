@@ -20,9 +20,9 @@ Meet a special gravitational wave. Born from the collision of two neutron stars 
 - [English](https://MariaElidaiana.github.io/cosmicwaves/Cosmic_Waves_Zine-ENGLISH.pdf)
 
 
-Text: [Dr. Maria E. S. Pereira](https://mariaelidaiana.github.io/) (maria.sp@mail.com)
-Illustration, Layout and Text: [Dr. Camila Machado](https://www.camilamachado.com/) (hi.camilamachado@gmail.com) 
-Editing (English version): Stephanie Fernandes
+Text: [Dr. Maria E. S. Pereira](https://mariaelidaiana.github.io/) (maria.sp@mail.com)\
+Illustration, Layout and Text: [Dr. Camila Machado](https://www.camilamachado.com/) (hi.camilamachado@gmail.com)\ 
+Editing (English version): Stephanie Fernandes\
 Translation (German version): Jasmin Neumann
 
 ---
